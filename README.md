@@ -1,4 +1,6 @@
-# Software Engineering Fundamentals - Group 120 
+# Road-Registry
+
+This is a skeleton code with testcases, uses mostly Java Maven
 
 ## Alissa Nguyen - s4085541 
 - addDemeritPoints Test Cases
