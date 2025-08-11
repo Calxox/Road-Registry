@@ -1,0 +1,5 @@
+personID,offenceDate,demeritPoints,totalDemeritPoints,isSuspended
+99__aaaaAA,30-05-2025,6,6,false
+99__aaaaAA,04-07-2025,3,9,true
+99__aaaaAA,30-05-2025,6,6,false
+99__aaaaAA,04-07-2025,4,10,false
